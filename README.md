@@ -1,18 +1,23 @@
-## Linux_Rice
-My linux i3 dot files.
+# Hyprland-Rice
+My linux Hyprland dot files.
 
-- Install all the fonts from fonts.txt file.
+### Showcase:
+
+
 - Clone the repo and cd into it.
 - Run:
 	```mv .config/* ~/.config/```
-- Move wallpaper from the repo to your desired directory and change the path to it in the i3 config file at the feh section.
+- Move wallpaper from the repo to your desired directory and change the path to it in the Hyprpaper config file at that section.
 - Enjoy!
 
-## Screenshots: 
+## Wallpapers:
 
-![S1](screenshots/2024-07-31_01-04.png)
+![S1](wallpaper/bc.jpg)
 
-![S2](screenshots/2024-07-31_01-04.png)
+![S2](wallpaper/bclock.jpg)
 
-### Wallpaper:
-![wal](wallpaper/wallpiece.jpg)
+## Screenshots:
+![wal](screenshot/2024-09-03_21-35.png)
+
+![wal2](screenshot/2024-09-03_21-40.png)
+
