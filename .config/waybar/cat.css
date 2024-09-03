@@ -1,0 +1,40 @@
+@define-color waybar-bg rgba(0, 0, 0, 0);
+
+@define-color workspaces-cl #5CA341;
+@define-color workspaces-btn rgba(17,17,27,1);
+
+@define-color workspaces-active-cl #11111b;
+@define-color workspaces-active-bg #89b4fa;
+
+@define-color workspaces-hover-bg #b4befe;
+@define-color workspaces-hover-cl #11111b;
+
+@define-color bg #0F1715;
+@define-color cg #cdd6f4;
+
+@define-color warning-bg #fab387;
+@define-color critial-bg #f38ba8;
+@define-color warning-text #1e1e2e;
+
+@define-color active-button-text #cdd6f4;
+@define-color active-button-bg #11111b;
+
+@define-color foreground #c8d1dd;
+@define-color background #0F1715;
+@define-color cursor #c8d1dd;
+
+@define-color color1 #6A9159;
+@define-color color2 #5CA341;
+@define-color color3 #AA855B;
+@define-color color4 #62758B;
+@define-color color5 #728AA7;
+@define-color color6 #909BAF;
+@define-color color7 #c8d1dd;
+@define-color color8 #8c929a;
+@define-color color9 #6A9159;
+@define-color color10 #5CA341;
+@define-color color11 #AA855B;
+@define-color color12 #62758B;
+@define-color color13 #728AA7;
+@define-color color14 #909BAF;
+@define-color color15 #c8d1dd;
